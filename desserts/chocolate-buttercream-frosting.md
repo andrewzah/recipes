@@ -1,5 +1,6 @@
+---
 title: 'Perfect Chocolate Buttercream Frosting Recipe'
-url: 'https://addapinch.com/the-best-chocolate-cake-recipe-ever/'
+source_url: 'https://addapinch.com/the-best-chocolate-cake-recipe-ever/'
 tags: [ 'dessert', 'chocolate' ]
 prep_time: '15m'
 ---

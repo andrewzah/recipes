@@ -1,5 +1,6 @@
+---
 title: 'The Best Chocolate Cake Recipe {Ever}'
-url: 'https://addapinch.com/the-best-chocolate-cake-recipe-ever/'
+source_url: 'https://addapinch.com/the-best-chocolate-cake-recipe-ever/'
 tags: [ 'dessert', 'chocolate', 'cake' ]
 prep_time: '20m'
 cook_time: '25-30m'
