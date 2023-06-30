@@ -1,5 +1,6 @@
+---
 title: 'Slow Cooker Korean Beef Bulgogi'
-url: 'https://damndelicious.net/2015/02/21/slow-cooker-korean-beef/'
+source_url: 'https://damndelicious.net/2015/02/21/slow-cooker-korean-beef/'
 tags: [ 'slowcooker', 'low-prep', 'korean', 'meat' ]
 prep_time: '15m'
 cook_time: '4-8h'
