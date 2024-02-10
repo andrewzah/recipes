@@ -1,3 +1,5 @@
+# Baked Ziti
+
 A beloved favorite of the FNC crowd, Baked Ziti is a mouthwatering Italian-American classic that never fails to impress. Picture al dente ziti pasta layered with a robust marinara sauce, velvety ricotta cheese, and a generous topping of gooey melted mozzarella. Baked to golden perfection, this dish is a surefire way to elevate your comfort food game and delight the taste buds of all who gather around your table.
 ## Source
 - https://www.notanothercookingshow.tv/post/classic-baked-ziti
@@ -32,7 +34,7 @@ You'll want to make the sauce while cooking the noodles
 5. Add the tomato puree
 6. Bring the heat to medium-high and continue to stir. The idea is to make the oil and the tomatoes and homogenous, emulsified sauce. So it will look a little broken now, but over the cooking process, it should come together.
 7. Add a generous pinch of salt and continue to stir. We are cooking this hard and fast - so we will start to see a rapid bubble popping starting to occur on the surface of our sauce. That’s okay. That’s what we’re looking for. Just make sure you don’t burn the sauce once the water starts to cook out of the tomatoes.
-8. Once the sauce has come together add ⅓ cup of parmesan cheese (or more - there is no such thing as too much parmesan cheese) to your sauce. Stir to combine. Lower the heat on the stove and bring your sauce to a slow simmer.
+8. Once the sauce has come together add 1 cup of parmesan cheese (or more - there is no such thing as too much parmesan cheese) to your sauce. Stir to combine. Lower the heat on the stove and bring your sauce to a slow simmer.
 9. When you cook any pasta for this, cook it in salty boiling water, but cook it 2 minutes less than the package instructs. In the final two minutes, the pasta should finish cooking in the sauce to help thicken the sauce and help the pasta absorb the sauce. Then finish with some more cheese and basil.
 ### Ziti
 1. Prepare a double batch of weekday sauce, but cook it to a slightly looser consistency than you would for pasta. Baked ziti cooks halfway in water, and then halfway in a baking dish so we need to add more liquid to the baking dish, making the paster saucier than you might think, to account for the pasta absorbing liquid while baking. Set aside and Bring a pot of salty water to a boil.
